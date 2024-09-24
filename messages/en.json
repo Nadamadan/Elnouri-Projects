@@ -1,0 +1,46 @@
+{
+	"Home": {
+		"startNow": "Start Now",
+		"endowments": "Endowments",
+		"projects": "Projects",
+		"reports": "Reports",
+		"about": "About Us",
+		"search": "Search"
+	},
+	"About": {
+		"header": "Al-Nouri's Charitable Work Around the World",
+		"achievements": "Al-Nouri's Charitable Achievements",
+		"Description": {
+			"part1": "Al-Nouri Foundation offers various services to support those in need around the world. These services include distributing food baskets to poor families, providing free or low-cost medical care and medications, and supporting education through scholarships and training programs. The foundation also provides financial assistance to help families meet basic needs.",
+			"part2": "In times of disaster, the foundation offers emergency relief. It also supports orphans and the elderly by providing psychological and social care. The goal is to improve lives and build a compassionate, unified community."
+		},
+		"Statistics": {
+			"currency": "Million USD",
+			"project": "Project",
+			"endowment": "Endowment",
+			"projectsCost": "Project costs around the world",
+			"endowmentsNum": "Number of endowments around the world",
+			"projectsNum": "Number of projects around the world",
+			"endowmentsCost": "Endowment costs around the world"
+		},
+		"rights": "Al-Nouri a non-profit public benefit association established by Ministerial Decision 12345/2024"
+	},
+	"Projects": {
+		"Headers": {
+			"projects": "Al-Nouri Projects Around the World",
+			"endowments": "Al-Nouri Endowments Around the World",
+			"details": "Project Details",
+			"about": "About the Project",
+			"areaAndTimeline": "Area and Timeline",
+			"scope": "Scope and Beneficiaries",
+			"cost": "The Cost"
+		},
+		"areaAndTimeline": "Construction work began on {start} and was completed on {end}. The project area is {area} square meters.",
+		"servedArea": "The project targets an area of {size} square kilometers, including {name}, benefiting approximately {population} people."
+	},
+	"Select": {
+		"button": "Select the year",
+		"years": "Years",
+		"choose": "Choose"
+	}
+}
